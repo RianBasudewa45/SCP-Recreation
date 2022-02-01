@@ -16,8 +16,8 @@ Finally its here
 
 ### Links
 
-![Mediafire Mcaddon](https://www.mediafire.com/file/ri30o5i4nkjpzz7/SCP_Recreation_Addon.mcaddon/file)
-![Mediafire Zip](https://www.mediafire.com/file/9jadblhrnk3zlgo/SCP_Recreation_Addon.zip/file)
+[Mediafire Mcaddon](https://www.mediafire.com/file/ri30o5i4nkjpzz7/SCP_Recreation_Addon.mcaddon/file)
+[Mediafire Zip](https://www.mediafire.com/file/9jadblhrnk3zlgo/SCP_Recreation_Addon.zip/file)
 
-![Drive Mcaddon](https://drive.google.com/file/d/1jl5XqzIWF52-fahNTYTf987pFHkq2z9L/view?usp=sharing)
-![Drive Zip](https://drive.google.com/file/d/1stSKs8byfsRlOqCmPPuA8ZXvRS1My7dC/view?usp=sharing)
+[Drive Mcaddon](https://drive.google.com/file/d/1jl5XqzIWF52-fahNTYTf987pFHkq2z9L/view?usp=sharing)
+[Drive Zip](https://drive.google.com/file/d/1stSKs8byfsRlOqCmPPuA8ZXvRS1My7dC/view?usp=sharing)
